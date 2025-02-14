@@ -1,9 +1,3 @@
-# final_project
-- https://github.com/Sanan2020/flutter_project
-- https://github.com/Sanan2020/phpserver
-- https://github.com/Sanan2020/admin_website
-#
-
 # My Project Suite
 
 โปรเจ็กต์นี้ประกอบด้วย 3 ส่วนที่ทำงานร่วมกัน:
