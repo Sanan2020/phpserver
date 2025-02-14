@@ -12,7 +12,7 @@
    - แอปพลิเคชันหลักที่พัฒนาด้วย Flutter  
    - ใช้สำหรับผู้ใช้ปลายทาง  
 
-2. **Web Admin (`(https://github.com/Sanan2020/admin_website)`)**  
+2. **Web Admin (https://github.com/Sanan2020/admin_website)**  
    - ระบบจัดการที่พัฒนาด้วย Web Technologies  
    - ใช้สำหรับผู้ดูแลระบบ  
 
